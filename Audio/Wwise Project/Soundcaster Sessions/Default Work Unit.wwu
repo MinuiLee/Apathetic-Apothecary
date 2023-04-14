@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A85980BD-554B-4669-A10E-697B9CD49143}" SchemaVersion="97">
+	<SoundcasterSessions>
+		<WorkUnit Name="Default Work Unit" ID="{A85980BD-554B-4669-A10E-697B9CD49143}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="Music" ID="{ACC1DAF6-5B07-4537-8A3E-79ADDC088118}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="Pause" ID="{ED400552-FB18-475B-8D11-46BC7E969C8A}" WorkUnitID="{C1118370-88B5-4535-B714-4A615D83436A}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="Unpause" ID="{0DDC7076-CCA2-4011-AEAF-EA2173E3A230}" WorkUnitID="{C1118370-88B5-4535-B714-4A615D83436A}"/>
+							<Position X="0" Y="1"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="MusicPlayer" ID="{F32919F4-ACC3-4979-8C29-76AEAC7A029F}" WorkUnitID="{C1118370-88B5-4535-B714-4A615D83436A}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true">
+						<RTPCValue>
+							<GameParameterRef Name="PlantsReady" ID="{4AC282A6-E837-4DA8-9C3D-88DC579F1D6D}"/>
+							<Value>2.6</Value>
+						</RTPCValue>
+					</RTPCValueList>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Menu" ID="{BFFF7C71-78D5-4C4C-BC7E-FA872F400137}"/>
+					</CurrentStateList>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="Grass" ID="{825E35BA-7EC1-4B2E-A720-847DC0ABCC9D}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundcasterSessions>
+</WwiseDocument>

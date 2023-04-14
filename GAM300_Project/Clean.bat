@@ -1,0 +1,1 @@
+rmdir /s /q %~dp0Binaries\ %~dp0DerivedDataCache\ %~dp0Intermediate\ %~dp0Saved\

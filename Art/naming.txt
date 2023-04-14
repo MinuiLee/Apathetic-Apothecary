@@ -1,0 +1,5 @@
+please write names as file paths; ie art_3dobjects_assetname 
+
+to keep files consistent for calls, put in the temp assets as assetname_temp!
+
+for textures, please use assetname_basecolor/metalness/etc
