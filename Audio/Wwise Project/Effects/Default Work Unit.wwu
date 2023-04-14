@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{93CE55C6-88DF-4B37-917A-A3921816DCB6}" SchemaVersion="97">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{93CE55C6-88DF-4B37-917A-A3921816DCB6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Camille_Pitch_Shift" ID="{F76DB672-2FE4-4A0F-BB14-68B052C326D3}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="10"/>
+						<Property Name="Pitch" Type="Real32" Value="400"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Shopkeep_Pitch_Shift" ID="{429E0349-0720-491B-A573-49B612BC5EF9}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="10"/>
+						<Property Name="Pitch" Type="Real32" Value="-800"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Aoife_Pitch_Shift" ID="{A83A57E5-9CD8-4D75-99E7-F13FF5BBA025}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="10"/>
+						<Property Name="Pitch" Type="Real32" Value="1600"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Fiz_Pitch_Shift" ID="{E40AD7AA-C4DA-440A-8AF9-42A47DA676E1}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="10"/>
+						<Property Name="Pitch" Type="Real32" Value="-300"/>
+					</PropertyList>
+				</Effect>
+				<Effect Name="Elias_Pitch_Shift" ID="{2026F44A-AAB2-49E0-8265-BAC90623D827}" PluginName="Wwise Pitch Shifter" CompanyID="0" PluginID="136" PluginType="3">
+					<PropertyList>
+						<Property Name="DelayTime" Type="Real32" Value="10"/>
+						<Property Name="Pitch" Type="Real32" Value="-1300"/>
+					</PropertyList>
+				</Effect>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

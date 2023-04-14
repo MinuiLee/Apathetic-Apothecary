@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{71576E34-2D71-4610-BF06-76AE874B8F26}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{71576E34-2D71-4610-BF06-76AE874B8F26}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Surface_Type" ID="{2C47621A-F073-4EB2-9D5D-C2F8311AA055}">
+					<ChildrenList>
+						<Switch Name="Grass" ID="{825E35BA-7EC1-4B2E-A720-847DC0ABCC9D}"/>
+						<Switch Name="Metal" ID="{2E3C7883-AC43-40A4-977D-80AEE88BED15}"/>
+						<Switch Name="Water" ID="{E1DC4D31-237C-407D-A365-3480BFDF1C56}"/>
+						<Switch Name="Wood" ID="{EA1CE664-66EA-4FDE-A696-95A80B245DB1}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

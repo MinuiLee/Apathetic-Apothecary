@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0459E702-4FFA-4659-A30F-277B03F55242}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{0459E702-4FFA-4659-A30F-277B03F55242}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="PlantsReady" ID="{4AC282A6-E837-4DA8-9C3D-88DC579F1D6D}">
+					<PropertyList>
+						<Property Name="FilterTimeUp" Type="Real64" Value="2"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="6"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
